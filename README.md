@@ -1,47 +1,68 @@
-# 👋 Hi, I'm Dimas Kurniawan
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=gradient&text=Dimas%20Kurniawan&fontSize=40&fontAlignY=55"/>
+</p>
 
-🎓 Informatics Student  
-💻 Web & Desktop Application Developer  
-📍 Indonesia
-
----
-
-## 🚀 About Me
-I am a passionate Informatics student with experience in building **web-based and desktop applications**.  
-I enjoy working with **PHP, MySQL, and Java**, and continuously improving my skills through real projects.
+<p align="center">
+  Web & Desktop Application Developer
+</p>
 
 ---
 
-## 🛠 Tech Stack
-### 💻 Languages
-- PHP
-- Java
-- JavaScript
+## Profile
 
-### 🗄 Database
-- MySQL
+Informatics student focused on backend development and system design.  
+Experienced in building structured CRUD applications, relational databases,  
+and desktop systems using Java.
 
-### 🎨 Frontend
-- HTML
-- CSS
-- Bootstrap
-
-### 🧰 Tools
-- Git & GitHub
-- NetBeans
-- Visual Studio Code
-- XAMPP
+Based in Indonesia.  
+Interested in clean architecture and practical implementations.
 
 ---
 
-## 📂 Featured Projects
-- 🏨 **Hotel Reservation System** — PHP & MySQL  
-- 🚗 **Car Rental Desktop Application** — Java (NetBeans)  
-- 📊 **CRUD Management System** — PHP & MySQL  
+## Stack
 
-Check my repositories below 👇
+**Languages**  
+PHP · Java · JavaScript
+
+**Database**  
+MySQL
+
+**Frontend**  
+HTML · CSS · Bootstrap
+
+**Tools**  
+Git · GitHub · VS Code · NetBeans
 
 ---
 
-## 📫 Contact
-- GitHub: https://github.com/Dmas-krniawan
+## Projects
+
+**Hotel Reservation System**  
+PHP · MySQL  
+Web application with authentication, room management, and admin panel.
+
+**Car Rental Desktop Application**  
+Java (NetBeans) · MySQL  
+Desktop system using DAO and MVC architecture.
+
+**CRUD Management System**  
+PHP · MySQL  
+Clean CRUD implementation with relational database design.
+
+---
+
+## GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dmas-krniawan&show_icons=true&hide_border=true&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+<p align="center">
+  <em>Less noise. More structure.</em>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&section=footer"/>
+</p>
