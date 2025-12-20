@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=gradient&text=Dimas%20Kurniawan&fontSize=40&fontAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=black,white&text=Dimas%20Kurniawan&fontSize=42&fontAlignY=55&desc=Web%20%26%20Desktop%20Developer&descAlign=60" alt="Banner Dimas Kurniawan"/>
 </p>
+
 
 <p align="center">
   Web & Desktop Application Developer
