@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Dimas Kurniawan
 
-<!--
-**Dmas-krniawan/Dmas-krniawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Informatics Student  
+💻 Web & Desktop Application Developer  
+📍 Indonesia
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am a passionate Informatics student with experience in building **web-based and desktop applications**.  
+I enjoy working with **PHP, MySQL, and Java**, and continuously improving my skills through real projects.
+
+---
+
+## 🛠 Tech Stack
+### 💻 Languages
+- PHP
+- Java
+- JavaScript
+
+### 🗄 Database
+- MySQL
+
+### 🎨 Frontend
+- HTML
+- CSS
+- Bootstrap
+
+### 🧰 Tools
+- Git & GitHub
+- NetBeans
+- Visual Studio Code
+- XAMPP
+
+---
+
+## 📂 Featured Projects
+- 🏨 **Hotel Reservation System** — PHP & MySQL  
+- 🚗 **Car Rental Desktop Application** — Java (NetBeans)  
+- 📊 **CRUD Management System** — PHP & MySQL  
+
+Check my repositories below 👇
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/Dmas-krniawan
