@@ -61,7 +61,7 @@ const nama_lo = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_GITHUB&theme=react-dark&hide_border=true&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff" width="90%"/>
 </div>
 
-https://raw.githubusercontent.com/Dmas-krniawan/Dmas-krniawan/refs/heads/output/github-contribution-grid-snake-dark.svg
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Dmas-krniawan/Dmas-krniawan/refs/heads/output/github-contribution-grid-snake-dark.svg)
 
 ## 🏆 GitHub Trophy
 
