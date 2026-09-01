@@ -1,87 +1,138 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%2C%20I'm%20NAMA_LO&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20Frontend%20%26%20Backend&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:06b6d4&height=200&section=header&text=Dimas%20Kurniawan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20%7C%20Web%20Developer&descAlignY=58&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+cool+things+for+the+web+%F0%9F%9A%80;JavaScript+%7C+React+%7C+Node.js;Always+learning%2C+always+shipping" />
+<br>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Building+digital+experiences.;Exploring+AI+%26+modern+web+technologies.;Turning+ideas+into+real+projects." />
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/USERNAME_GITHUB?label=Followers&style=for-the-badge&color=0e75b6" />
-<img src="https://img.shields.io/badge/dynamic/json?color=blue&style=for-the-badge&label=GitHub%20Stars&query=%24.length&url=https://api.github.com/search/repositories?q=user:USERNAME_GITHUB" />
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Dmas-krniawan&label=Profile%20Views&color=06b6d4&style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/Dmas-krniawan?label=Followers&style=flat-square&color=0ea5e9"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/Dmas-krniawan?label=Stars&style=flat-square&color=06b6d4"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 Tentang Saya
+## 👋 About Me
+
+I'm an **Information Systems student** and aspiring **Web Developer** from Indonesia.
+
+I enjoy building clean interfaces, experimenting with new technologies, and turning simple ideas into useful digital products.
 
 ```javascript
-const nama_lo = {
-  role: "Web Developer",
-  lokasi: "Indonesia",
-  fokus: ["Frontend", "Backend", "UI/UX"],
-  sedangBelajar: "sesuatu yang baru tiap minggu",
-  motto: "Ship fast, iterate faster"
+const dimas = {
+  focus: ["Web Development", "UI/UX", "AI"],
+  currentlyBuilding: "AI Study",
+  currentlyLearning: "Machine Learning",
+  mindset: "Learn → Build → Improve"
 };
 ```
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/mikechambers/mikechambers/main/coding.gif">
+---
 
-- 🔭 Lagi ngerjain: **[ai studdy]**
-- 🌱 Lagi belajar: **[maching learning]**
-- 👯 Terbuka buat kolaborasi di: **[website]**
-- 💬 Ajak diskusi soal: **JavaScript, React, Node.js**
-- ⚡ Fun fact: **[gatau]**
+## 🚀 What I'm Building
 
-<br clear="both"/>
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🤖 AI Study
+
+An AI-powered learning project exploring smarter and more interactive ways to learn.
+
+**Focus**
+
+`AI` `Web` `Education`
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🎮 Game Launcher
+
+A modern game launcher interface inspired by the clean experience of modern consoles.
+
+**Focus**
+
+`UI/UX` `Web` `Product`
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🏙️ Smart Kelurahan
+
+A digital public-service portal concept designed to simplify access to local services.
+
+**Focus**
+
+`Web` `UI/UX` `Systems`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,figma,git,docker,vscode&theme=dark&perline=8" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,figma,git,github,vscode&perline=8&theme=light"/>
+
 </div>
 
 ---
 
-## 📊 Statistik Ngoding
+## 📊 GitHub
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&icon_color=00F7FF&title_color=00F7FF" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00F7FF" />
-</div>
 
-<div align="center">
-<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB&theme=highcontrast&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
-</div>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dmas-krniawan&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0f172a&icon_color=06b6d4&text_color=475569&rank_icon=github"/>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_GITHUB&theme=react-dark&hide_border=true&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff" width="90%"/>
-</div>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmas-krniawan&layout=compact&hide_border=true&bg_color=ffffff&title_color=0f172a&text_color=475569"/>
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Dmas-krniawan/Dmas-krniawan/refs/heads/output/github-contribution-grid-snake-dark.svg)
+<br><br>
 
-## 🏆 GitHub Trophy
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dmas-krniawan&theme=default&hide_border=true&background=ffffff&ring=06b6d4&fire=06b6d4&currStreakLabel=0f172a"/>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME_GITHUB&theme=darkhub&no-frame=true&row=1&column=7" />
 </div>
 
 ---
 
-## 🌐 Let's Connect
+## 🐍 Contribution Activity
 
 <div align="center">
-<a href="https://linkedin.com/in/USERNAME_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/USERNAME_IG"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://twitter.com/USERNAME_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="mailto:email@kamu.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<img src="https://raw.githubusercontent.com/Dmas-krniawan/Dmas-krniawan/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+
 </div>
+
+---
+
+## 🌐 Connect
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-</div>
 
-github-contribution-grid-snake-dark.svg
+<a href="https://linkedin.com/in/USERNAME_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/USERNAME_IG">
+<img src="https://img.shields.io/badge/Instagram-0f172a?style=flat-square&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:EMAIL_KAMU">
+<img src="https://img.shields.io/badge/Email-0f172a?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=15&duration=3500&pause=1000&color=64748B&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+%F0%9F%91%8B;Let's+build+something+great." />
+
+</div>
