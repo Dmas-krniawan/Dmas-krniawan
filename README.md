@@ -2,27 +2,6 @@
   <img src="https://raw.githubusercontent.com/Dmas-krniawan/Dmas-krniawan/output/dimas_termux_typing.gif" width="100%">
 </p>
  
- 
- <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:06b6d4&height=200&section=header&text=Dimas%20Kurniawan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20%7C%20Web%20Developer&descAlignY=58&descSize=17" width="100%"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Building+digital+experiences.;Exploring+AI+%26+modern+web+technologies.;Turning+ideas+into+real+projects." />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Dmas-krniawan&label=Profile%20Views&color=06b6d4&style=flat-square"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Dmas-krniawan?label=Followers&style=flat-square&color=0ea5e9"/>
-&nbsp;
-<img src="https://img.shields.io/github/stars/Dmas-krniawan?label=Stars&style=flat-square&color=06b6d4"/>
-
-</div>
-
----
-
 ## 👋 About Me
 
 I'm an **Information Systems student** and aspiring **Web Developer** from Indonesia.
