@@ -1,4 +1,9 @@
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dmas-krniawan/Dmas-krniawan/output/dimas_termux_typing.gif" width="100%">
+</p>
+ 
+ 
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:06b6d4&height=200&section=header&text=Dimas%20Kurniawan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20%7C%20Web%20Developer&descAlignY=58&descSize=17" width="100%"/>
 
