@@ -107,7 +107,7 @@ A digital public-service portal concept designed to simplify access to local ser
 <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/USERNAME_IG">
+<a href="https://instagram.com/Doomkang_">
 <img src="https://img.shields.io/badge/Instagram-0f172a?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
 
