@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dmas-krniawan/Dmas-krniawan/output/dimas_termux_typing.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/Dmas-krniawan/Dmas-krniawan/output/dimas_termux_typing (1).gif" width="100%">
 </p>
  
 ## 👋 About Me
